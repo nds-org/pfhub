@@ -4,3 +4,5 @@ _misc
 .local
 _publications/jors/build
 .gcloudignore
+__pycache__
+.idea
